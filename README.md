@@ -1,5 +1,7 @@
 # Análisis Comparativo de Rendimiento de Tiendas – Alura Store
 
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fsoto21/CHALLENGE_ALURA_STORE_Fausto_Soto/blob/main/ALURA_STORE.ipynb)
+
 ---
 
 ## 📚 Índice
@@ -48,9 +50,7 @@ El Sr. Juan busca decidir cuál de sus cuatro tiendas vender. Para ello se reali
 
 ## 📈 4. Análisis de Resultados
 
-Link de GitHub con notebook de análisis y gráficas:
-
-[https://github.com/BibiTC/DS-challenge-modelado-datos-python.git](https://github.com/BibiTC/DS-challenge-modelado-datos-python.git)
+📎 [Notebook de análisis y gráficas en GitHub](https://github.com/fsoto21/CHALLENGE_ALURA_STORE_Fausto_Soto.git)
 
 ### 💵 4.1 Ingresos Totales y Transacciones
 
@@ -144,13 +144,13 @@ Link de GitHub con notebook de análisis y gráficas:
 
 ## 📁 9. Acceso al Proyecto
 
-- **Repositorio GitHub:** [https://github.com/BibiTC/DS-challenge-modelado-datos-python.git](https://github.com/BibiTC/DS-challenge-modelado-datos-python.git)
+- 🔗 [Repositorio en GitHub](https://github.com/fsoto21/CHALLENGE_ALURA_STORE_Fausto_Soto.git)
 
 ---
 
 ## ✅ Tecnologías Utilizadas
 
-- Python
-- Pandas
-- Matplotlib
-- Jupyter Notebook
+- Python  
+- Pandas  
+- Matplotlib  
+- Jupyter Notebook  
